@@ -1,0 +1,143 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+AuthStore	store/auth-store.ts	/^export default class AuthStore extends VuexModule {$/;"	c
+ID1	store/sample.json	/^      "ID1": {$/;"	o	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1
+ID2	store/sample.json	/^      "ID2": {$/;"	o	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1
+ID3	store/sample.json	/^      "ID3": {$/;"	o	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1
+NODE_ENV	env.d.ts	/^    NODE_ENV: string$/;"	p	interface:NodeJS.ProcessEnv
+NodeJS	env.d.ts	/^declare namespace NodeJS {$/;"	n
+ProcessEnv	env.d.ts	/^  interface ProcessEnv {$/;"	i	namespace:NodeJS
+QuasarFeatureFlags	store/store-flag.d.ts	/^  interface QuasarFeatureFlags {$/;"	i
+Router	router/index.ts	/^  const Router = new VueRouter({$/;"	C
+SessionLoad	Session.vim	/^let SessionLoad = 1$/;"	v
+SettingsStore	store/settings-store.ts	/^export default class SettingsStore extends VuexModule {$/;"	c
+TaskStore	store/task-store.ts	/^export default class TaskStore extends VuexModule {$/;"	c
+VUE_ROUTER_BASE	env.d.ts	/^    VUE_ROUTER_BASE: string | undefined$/;"	p	interface:NodeJS.ProcessEnv
+VUE_ROUTER_MODE	env.d.ts	/^    VUE_ROUTER_MODE: 'hash' | 'history' | 'abstract' | undefined$/;"	p	interface:NodeJS.ProcessEnv
+a	store/task-store.ts	/^      let taskAProp = this.tasks[a][this.sortBy] as string;$/;"	v
+apiKey	boot/firebase.js	/^  apiKey: 'AIzaSyBt5ExoyQ2B_VHNgTYNZJlAwO1H84bDGtY',$/;"	p	class:firebaseConfig
+appId	boot/firebase.js	/^  appId: '1:893257959470:web:8e95494c4a27fbe17c77bf'$/;"	p	class:firebaseConfig
+authDomain	boot/firebase.js	/^  authDomain: 'awesome-todo-aaad2.firebaseapp.com',$/;"	p	class:firebaseConfig
+b	store/task-store.ts	/^      let taskBProp = this.tasks[b][this.sortBy] as string;$/;"	v
+base	assets/quasar-logo-full.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+cc	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	n	uri:http://creativecommons.org/ns#
+circle8858-1-3-7-6-5-3-0	assets/quasar-logo-full.svg	/^             inkscape:export-ydpi="10.031387" \/>$/;"	i
+completed	store/sample.json	/^        "completed": false,$/;"	b	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID1
+completed	store/sample.json	/^        "completed": false,$/;"	b	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID2
+completed	store/sample.json	/^        "completed": false,$/;"	b	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID3
+completed	store/task-store.ts	/^          completed: boolean;$/;"	C
+completed	store/task-store.ts	/^        completed: boolean;$/;"	C
+completed	store/task-store.ts	/^        completed: boolean;$/;"	v
+databaseURL	boot/firebase.js	/^  databaseURL: 'https:\/\/awesome-todo-aaad2.firebaseio.com',$/;"	p	class:firebaseConfig
+dc	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+defs3572	assets/quasar-logo-full.svg	/^     id="defs3572" \/>$/;"	i
+dueDate	store/sample.json	/^        "dueDate": "2020\/01\/01",$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID1
+dueDate	store/sample.json	/^        "dueDate": "2020\/01\/02",$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID2
+dueDate	store/sample.json	/^        "dueDate": "2020\/02\/01",$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID3
+dueDate	store/task-store.ts	/^          dueDate: string;$/;"	C
+dueDate	store/task-store.ts	/^        dueDate: string;$/;"	C
+dueDate	store/task-store.ts	/^        dueDate: string;$/;"	v
+dueTime	store/sample.json	/^        "dueTime": "08:00"$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID2
+dueTime	store/sample.json	/^        "dueTime": "12:00"$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID1
+dueTime	store/sample.json	/^        "dueTime": "16:00"$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID3
+dueTime	store/task-store.ts	/^          dueTime: string;$/;"	C
+dueTime	store/task-store.ts	/^        dueTime: string;$/;"	C
+dueTime	store/task-store.ts	/^        dueTime: string;$/;"	v
+filteredTasks	store/task-store.ts	/^    const filteredTasks: {$/;"	C
+filteredTasks	store/task-store.ts	/^    let filteredTasks: {$/;"	v
+firebaseApp	boot/firebase.js	/^let firebaseApp = firebase.initializeApp(firebaseConfig);$/;"	v
+firebaseAuth	boot/firebase.js	/^let firebaseAuth = firebaseApp.auth()$/;"	v
+firebaseConfig	boot/firebase.js	/^var firebaseConfig = {$/;"	c
+firebaseDb	boot/firebase.js	/^let firebaseDb = firebaseApp.database()$/;"	v
+flowRoot4513-6-6-08	assets/quasar-logo-full.svg	/^               id="flowRoot4513-6-6-08">$/;"	i
+g4445-2-0	assets/quasar-logo-full.svg	/^           transform="translate(12.499948,7.809312)">$/;"	i
+g4561-6-7-0	assets/quasar-logo-full.svg	/^             id="g4561-6-7-0">$/;"	i
+g4579-2-20	assets/quasar-logo-full.svg	/^         id="g4579-2-20">$/;"	i
+g4895-4-4	assets/quasar-logo-full.svg	/^       transform="translate(1419.0442,398.9018)">$/;"	i
+g5443-0-1-5-1-9	assets/quasar-logo-full.svg	/^         inkscape:export-ydpi="44.860481">$/;"	i
+g8856-6-1-1-9-0-1-9	assets/quasar-logo-full.svg	/^           id="g8856-6-1-1-9-0-1-9">$/;"	i
+g:this_obsession	Session.vim	/^let g:this_obsession = v:this_session$/;"	v
+g:this_session	Session.vim	/^let g:this_session = v:this_session$/;"	v
+handleAuthStateChange	store/auth-store.ts	/^  public handleAuthStateChange(): void {$/;"	m	class:AuthStore
+id	store/task-store.ts	/^        const id = snapshot.key;$/;"	C
+inkscape	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+key	store/task-store.ts	/^        [key: string]: string | boolean;$/;"	v
+key	store/task-store.ts	/^        } = sortedTasks[key];$/;"	C
+key	store/task-store.ts	/^      } = filteredTasks[key];$/;"	C
+keyOrdered	store/task-store.ts	/^    const keyOrdered: string[] = Object.keys(this.tasks);$/;"	C
+keys	store/task-store.ts	/^          const keys = Object.keys(taskUpdated.updates);$/;"	C
+layer1	assets/quasar-logo-full.svg	/^     transform="translate(-277.71988,-312.33911)">$/;"	i
+loggedIn	store/auth-store.ts	/^  public loggedIn: boolean = false;$/;"	p	class:AuthStore
+loginUser	store/auth-store.ts	/^  public loginUser(user: { email: string; password: string }) {$/;"	m	class:AuthStore
+logoutUser	store/auth-store.ts	/^  public logoutUser() {$/;"	m	class:AuthStore
+messagingSenderId	boot/firebase.js	/^  messagingSenderId: '893257959470',$/;"	p	class:firebaseConfig
+metadata3575	assets/quasar-logo-full.svg	/^     id="metadata3575">$/;"	i
+name	store/sample.json	/^        "name": "Buy Bananas",$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID2
+name	store/sample.json	/^        "name": "Go to gym",$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID3
+name	store/sample.json	/^        "name": "Go to shop",$/;"	s	object:tasks.r1VwxM8FuKZPbhIbGBy3WxcHgWf1.ID1
+newTask	store/task-store.ts	/^        const newTask = {$/;"	C
+nsbe039a1d0101	statics/icons/safari-pinned-tab.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1024" height="1024"><path d="M483.644 1.013C3/;"	n	uri:http://www.w3.org/2000/svg
+nsc0d25b900101	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+nsc8f499fd0101	assets/sad.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" viewBox="0 0 166.7 168.9" width="166.7" height="168./;"	n	uri:http://www.w3.org/2000/svg
+path3428	assets/quasar-logo-full.svg	/^                 id="path3428" \/>$/;"	i
+path3430	assets/quasar-logo-full.svg	/^                 id="path3430" \/>$/;"	i
+path3432	assets/quasar-logo-full.svg	/^                 id="path3432" \/>$/;"	i
+path3434	assets/quasar-logo-full.svg	/^                 id="path3434" \/>$/;"	i
+path3436	assets/quasar-logo-full.svg	/^                 id="path3436" \/>$/;"	i
+path3438	assets/quasar-logo-full.svg	/^                 id="path3438" \/>$/;"	i
+path8860-5-4-8-2-9-0-9	assets/quasar-logo-full.svg	/^             inkscape:connector-curvature="0" \/>$/;"	i
+path8862-5-5-9-1-3-6-3	assets/quasar-logo-full.svg	/^             inkscape:transform-center-y="-444.04649" \/>$/;"	i
+path8864-4-8-1-2-4-4-4	assets/quasar-logo-full.svg	/^             id="path8864-4-8-1-2-4-4-4" \/>$/;"	i
+path8866-7-5-5-0-6-4-7	assets/quasar-logo-full.svg	/^             inkscape:transform-center-y="639.34029" \/>$/;"	i
+path8868-6-7-4-7-2-7-3	assets/quasar-logo-full.svg	/^             id="path8868-6-7-4-7-2-7-3" \/>$/;"	i
+path8870-5-3-9-3-5-5-1	assets/quasar-logo-full.svg	/^             inkscape:transform-center-y="-265.80221" \/>$/;"	i
+path8872-6-3-2-1-3-3-7	assets/quasar-logo-full.svg	/^             id="path8872-6-3-2-1-3-3-7" \/>$/;"	i
+projectId	boot/firebase.js	/^  projectId: 'awesome-todo-aaad2',$/;"	p	class:firebaseConfig
+q-app	index.template.html	/^    <div id="q-app"><\/div>$/;"	I
+r1VwxM8FuKZPbhIbGBy3WxcHgWf1	store/sample.json	/^    "r1VwxM8FuKZPbhIbGBy3WxcHgWf1": {$/;"	o	object:tasks
+rdf	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+registerUser	store/auth-store.ts	/^  public registerUser(user: { email: string; password: string }) {$/;"	m	class:AuthStore
+routes	router/routes.ts	/^const routes: RouteConfig[] = [$/;"	C
+s:l	Session.vim	/^let s:l = 3 - ((2 * winheight(0) + 25) \/ 50)$/;"	v
+s:so_save	Session.vim	/^let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0$/;"	v
+s:sx	Session.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:wipebuf	Session.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
+searchFieldLowercase	store/task-store.ts	/^        const searchFieldLowercase: string = this.searchField.toLowerCase();$/;"	C
+selectAll	directives/directive-select-all.ts	/^export const selectAll: DirectiveOptions = {$/;"	C
+setLoggedIn	store/auth-store.ts	/^  public setLoggedIn(value: boolean): void {$/;"	m	class:AuthStore
+settings	store/settings-store.ts	/^    const settings = LocalStorage.getItem('settings');$/;"	C
+settings	store/settings-store.ts	/^  public settings: {$/;"	p	class:SettingsStore
+showErrorMessage	functions/show-error-message.ts	/^export function showErrorMessage(errorMessage: string): void {$/;"	f
+sodipodi	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sortedTasks	store/task-store.ts	/^    const sortedTasks: {$/;"	C
+sortedTasks	store/task-store.ts	/^    let sortedTasks: {$/;"	v
+storageBucket	boot/firebase.js	/^  storageBucket: 'awesome-todo-aaad2.appspot.com',$/;"	p	class:firebaseConfig
+store	store/store-flag.d.ts	/^    store: true;$/;"	p	interface:QuasarFeatureFlags
+svg	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg3570	assets/quasar-logo-full.svg	/^   sodipodi:docname="quasar-logo-full.svg">$/;"	i
+task	store/task-store.ts	/^          task: task$/;"	C
+task	store/task-store.ts	/^        const task = snapshot.val();$/;"	C
+task	store/task-store.ts	/^        const task: {$/;"	C
+task	store/task-store.ts	/^      const task: {$/;"	C
+task	store/task-store.ts	/^      task: task$/;"	C
+taskAProp	store/task-store.ts	/^      let taskAProp = this.tasks[a][this.sortBy] as string;$/;"	v
+taskBProp	store/task-store.ts	/^      let taskBProp = this.tasks[b][this.sortBy] as string;$/;"	v
+taskId	store/task-store.ts	/^    const taskId = uid();$/;"	C
+taskNameLowercase	store/task-store.ts	/^        const taskNameLowercase: string = task.name.toLowerCase();$/;"	C
+taskRef	store/task-store.ts	/^      const taskRef = firebaseDb.ref(`tasks\/${userId}\/${taskId}`);$/;"	C
+taskRef	store/task-store.ts	/^      const taskRef = firebaseDb.ref(`tasks\/${userId}\/${taskToAdd.taskId}`);$/;"	C
+taskToAdd	store/task-store.ts	/^    const taskToAdd = {$/;"	C
+taskref	store/task-store.ts	/^      const taskref = firebaseDb.ref(`tasks\/${userId}\/${taskUpdated.id}`);$/;"	C
+tasks	store/sample.json	/^  "tasks": {$/;"	o
+tasks	store/task-store.ts	/^    let tasks: {$/;"	v
+tasks	store/task-store.ts	/^  public tasks: {$/;"	p	class:TaskStore
+updatedTask	store/task-store.ts	/^        const updatedTask = {$/;"	C
+updates	store/task-store.ts	/^          updates: task$/;"	C
+userId	store/task-store.ts	/^      const userId = firebaseAuth.currentUser.uid;$/;"	C
+userTasks	store/task-store.ts	/^      const userTasks = firebaseDb.ref(`tasks\/${userId}`);$/;"	C

@@ -1,0 +1,38 @@
+{
+  "@quasar/typescript": {
+    "webpack": "plugin",
+    "rename": true,
+    "vscode": false,
+    "prettier": true
+  },
+  "@quasar/icon-genie": {
+    "minify_dev": "pngquant",
+    "minify_build": "zopfli",
+    "cordova": {
+      "background_color": "#731AB3",
+      "splashscreen_type": "pure"
+    },
+    "build_always": false,
+    "__internal": {
+      "dev": {
+        "spa": {
+          "iconHash": "c3c86668fc31bf901e1cb8fa8e1925c2"
+        },
+        "cordova": {
+          "iconHash": "c3c86668fc31bf901e1cb8fa8e1925c2",
+          "splashscreenHash": "37efd9e8867f5aa95474897b646746a3",
+          "splashscreenType": "pure",
+          "backgroundColor": "#731AB3"
+        },
+        "electron": {
+          "iconHash": "c3c86668fc31bf901e1cb8fa8e1925c2"
+        }
+      },
+      "build": {
+        "spa": {
+          "iconHash": "c3c86668fc31bf901e1cb8fa8e1925c2"
+        }
+      }
+    }
+  }
+}
